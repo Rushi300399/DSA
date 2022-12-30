@@ -2,7 +2,9 @@
 methods  1.form new array and fill no time complaxity o(n)
          2. using same array using swapping technique  time complaxity o(n)
          3.recursive method
-         //swapping technique
+         
+         
+         //2 pointer approch
          public class{
          public static void main(String[] args){
          int[] arr = {1, 2, 3, 4, 5};
